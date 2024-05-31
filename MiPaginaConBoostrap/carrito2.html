@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="estilosCarrito2.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#"><img src="./logo_large.png" alt=""></a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="./index.html">Sneakers</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="./Noticias.html">Noticias</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="./AcerdaDe.html">Acerca de</a>
+                  </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="./Ayuda.html">Ayuda</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link active" aria-current="page" href="./index2.html">Compras</a>
+                  </li>
+                </ul>
+                <form class="d-flex" role="search">
+                  <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search">
+                  <button class="btn btn-outline-success" type="submit" style="background-color: red; color: aliceblue;">Buscar</button>
+                </form>
+              </div>
+            </div>
+          </nav>
+    </header>
+    <div class="raya">
+    </div>
+    <div class="compras">
+        <h1>Carrito de Compras</h1>
+        <ul id="lista-carrito"></ul>
+        <p>Total: $<span id="total">0</span></p>
+        <button id="vaciar-carrito">Vaciar Carrito</button>
+    </div>
+    <div class="raya">
+    </div>
+    <main>
+        <div id="carouselExample" class="carousel slide">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="./muchossss.webp" class="d-block w-100" alt="...">
+              </div>
+              <div class="carousel-item">
+                <img src="./ImagenCaro3.png" class="d-block w-100" alt="...">
+              </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+    </main>
+    <footer id="footer" class="pb-4 pt-4">
+        <div class="container">
+            <div class="row text-center">
+                <img src="./logo2444.png" alt="">
+            <p class="p2">SOBRE NOSOTROS</p>
+            <p class="p2">Terminos y Condiciones</p>
+            <p class="p2">Privacidad</p>
+            <p class="p2">Configuracion</p>
+            <p class="p3">CONTACTE CON NOSOTROS</p>
+            <p class="p4">© 2024 UrbanKicks Club MX. Reservados todos los derechos</p>
+            </div>
+            </div>
+        </div>
+    </footer>
+    <script src="./CarritoPagina.js"></script>
+    <script src="bootstrap.min.js"></script>
+</body>
+</html>

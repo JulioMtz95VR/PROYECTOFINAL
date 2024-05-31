@@ -1,0 +1,110 @@
+body {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin: 0;
+
+}
+
+.navbar-brand img {
+    width: 100px;
+}
+
+.raya{
+    background-color: red;
+    width: 100%;
+    height: 5px;
+}
+
+.texto1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.logoNegro img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 950px;
+    margin-top: 20px;
+    padding-left: 350px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+.solin img {
+    width: 300px;
+}
+
+.Marzo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin-top: 90px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    color: gray;
+}
+
+.row {
+    padding-left: 50px;
+}
+
+.Abril {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin-top: 90px;
+}
+
+h3 {
+    font-size: 17px;
+}
+
+#footer {
+    background: red;
+}
+
+#footer a {
+    color: white;
+    text-decoration: none;
+}
+
+#footer p {
+    color: white;
+    text-decoration: none;
+}
+
+#footer img {
+    width: 200px;
+}
+
+.p2 {
+    font-size: 17px;
+}
+
+.p3 {
+    font-size: 17px;
+}
+
+.p4 {
+    font-size: 17px;
+}

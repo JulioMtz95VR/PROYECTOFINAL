@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "nombre": "AIR JORDAN 1 RETRO HIGH OG NEGRO BLANCO 2.0",
+      "precio": 3400,
+      "talla": 27,
+      "modelo": "Air Jordan",
+      "imagen": "./teni 1.JPG"
+    },
+    {
+      "id": 2,
+      "nombre": "AIR JORDAN 1 RETRO HIGH 85 OG 'BORGOÑA METALIZADO'",
+      "precio": 4300,
+      "talla": 22,
+      "modelo": "Air Jordan",
+      "imagen": "./teni 2.JPG"
+    },
+    {
+      "id": 3,
+      "nombre": "AIR JORDAN 4 RETRO 'BRED REIMAGINADO'",
+      "precio": 5000,
+      "talla": 25,
+      "modelo": "Air Jordan",
+      "imagen": "./teni 3.JPG"
+    },
+    {
+        "id": 4,
+        "nombre": "DUNK LOW SB 'HEINEKEN'",
+        "precio": 1250,
+        "talla": 28,
+        "modelo": "Nike",
+        "imagen": "./teni 4.JPG"
+      },
+      {
+        "id": 5,
+        "nombre": "YEEZY BOOST 350 V2 'GRIS ACERO'",
+        "precio": 3450,
+        "talla": 29,
+        "modelo": "Adidas",
+        "imagen": "./teni 5.JPG"
+      },
+      {
+        "id": 6,
+        "nombre": "OFF-WHITE X AIR JORDAN 1 RETRO HIGH OG 'UNC'",
+        "precio": 7653,
+        "talla": 22,
+        "modelo": "Air Jordan",
+        "imagen": "./teni 6.JPG"
+      },
+      {
+        "id": 7,
+        "nombre": "OFF-WHITE X AIR FORCE 1 LOW '07' 'MCA",
+        "precio": 1283,
+        "talla": 24,
+        "modelo": "Nike",
+        "imagen": "./teni 7.JPG"
+      },
+      {
+        "id": 8,
+        "nombre": "AIR YEEZY SP 'OCTUBRE ROJO'",
+        "precio": 3250,
+        "talla": 23,
+        "modelo": "Adidas",
+        "imagen": "./teni 8.JPG"
+      },
+      {
+        "id": 9,
+        "nombre": "KNU-SKOOL 'BLANCO MARINO'",
+        "precio": 5500,
+        "talla": 25,
+        "modelo": "Vans",
+        "imagen": "./teni 9.JPG"
+      }
+  ]
